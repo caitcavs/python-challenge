@@ -1,0 +1,6 @@
+Election Results
+----------------------------------
+Charles Casper Stockham6.221075380499904e-05
+Diana DeGette3.5162599976738586e-05
+Raymon Anthony Doane5.4096307656520904e-05
+Winner: Raymon Anthony Doane
